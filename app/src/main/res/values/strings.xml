@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Presion</string>
+
+    <!-- Títulos -->
+    <string name="ingresar_registro_titulo">Ingresar Registro</string>
+
+    <!-- Etiquetas -->
+    <string name="label_sistolica">Presión Sistólica (mmHg):</string>
+    <string name="label_diastolica">Presión Diastólica (mmHg):</string>
+
+    <!-- Pistas (Hints) -->
+    <string name="hint_sistolica">Ingrese la presión sistólica</string>
+    <string name="hint_diastolica">Ingrese la presión diastólica</string>
+
+    <!-- Botones -->
+    <string name="btn_guardar">Guardar Registro</string>
+    <string name="btn_cancelar">Cancelar</string>
+</resources>
